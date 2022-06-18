@@ -1,1 +1,1 @@
-# ARIMA-And-Seasonal-ARIMA
+Sales Predictor Model using time series analysis regression
